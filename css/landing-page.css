@@ -116,8 +116,9 @@ h6 {
 .banner {
     padding: 100px 0;
     color: #f8f8f8;
-    background: url(../img/bean_and_vine_lounge.jpg) no-repeat center center;
+    background: url(../img/bean_and_vine_patio.jpg) no-repeat center center;
     background-size: cover;
+    background-position: 0 15%;
 }
 
 .banner h2 {
